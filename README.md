@@ -28,13 +28,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<div allingn="center">
-<img src= "https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-alt= "snake /></a>
-  </div>
-
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/m1illy/m1illy/output/snake.svg" alt="Snake animation" />
 
 ###
