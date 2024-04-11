@@ -6,7 +6,7 @@
 </div>
 
 
-<img align="right" height="150" src= "https://tenor.com/pt-BR/view/misato-evangelion-gif-24885882"  />
+<img align="right" height="150" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmisato-deus-aben%25C3%25A7oe-aben%25C3%25A7oado-dia-aben%25C3%25A7oada-noite-gif-12201427132255312908&psig=AOvVaw3beFwo2_pQ95qxmugE3Adq&ust=1712889766809000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCKgOaRuYUDFQAAAAAdAAAAABAE"  />
 
 ###
 
