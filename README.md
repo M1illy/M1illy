@@ -1,4 +1,4 @@
-## Hello! my name is Emilly
+## Hi! i'm Emilly
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m1illy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -20,7 +20,6 @@
 </div>
 
 ###
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1illy/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-vit%C3%B3ria-9950a2288/)
 
